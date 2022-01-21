@@ -1,1 +1,1 @@
-# Training-
+# Linux-training-class
