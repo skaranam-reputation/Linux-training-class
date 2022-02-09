@@ -22,6 +22,8 @@
 -----
 GitHub 
 -----
+```git pull --rebase```- Pull remote changes to local.
+
 ```Git branch```- This command showing your current branch.
 
 ```Git checkout -b <branch name>``` - It's used to create new branch.
