@@ -18,8 +18,10 @@ Commands
 
 ```history```- It's used to view the previously executed command.
 
+
+-----
 GitHub 
-----
+-----
 ```Git branch```- This command showing your current branch.
 
 ```Git checkout -b <branch name>``` - It's used to create new branch.
